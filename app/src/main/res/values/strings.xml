@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GetLocationApp</string>
+    <string name="logger_file_name">logger.txt</string>
+</resources>
